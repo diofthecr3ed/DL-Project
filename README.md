@@ -113,9 +113,9 @@ FL = -\alpha (1-p)^\gamma \log(p)
 | Backbone | MobileNetV2 |
 | Optimizer | Adam |
 | Learning Rate | 1e-4 (decay schedule) |
-| Epochs | 30 |
-| Batch Size | 32 |
-| Hardware | NVIDIA RTX 3050 |
+| Epochs | 8 |
+| Batch Size | 128 |
+| Hardware | T4 Colab GPU |
 
 ---
 
