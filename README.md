@@ -1,7 +1,7 @@
 # DL-Project
 
 # Pedestrian Intention Detection in the Indian Context  
-Deep Learning Project – AI3001 | IIT Delhi
+Deep Learning Project – AI3001 | Plaksha
 
 ### Team Members  
 - Aadi Jain (U20230006)  
