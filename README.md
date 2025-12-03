@@ -1,5 +1,3 @@
-# DL-Project
-
 # Pedestrian Intention Detection in the Indian Context  
 Deep Learning Project – AI3001 | Plaksha
 
@@ -10,6 +8,9 @@ Deep Learning Project – AI3001 | Plaksha
 - Preesha Katial (U20230057)
 
 ---
+
+## Video Link
+ - 
 
 ## Abstract
 Indian roads are highly unstructured, chaotic, and dense, leading to frequent failures of Western pedestrian intent prediction systems. We propose a lightweight frame-based model that predicts whether a pedestrian intends to cross the ego vehicle’s path, using both visual posture cues and contextual road semantics. Our MobileNetV2 + Spatial Attention model combined with a 12-dimensional context feature vector achieved improved recall for the safety-critical Crossing class while preserving real-time feasibility.
@@ -51,11 +52,8 @@ Indian Driving Dataset subset with annotated pedestrian behavior.
 | Not Crossing | 7,404 |
 | Crossing frames | 2,391 |
 
-Image Placeholder: Dataset Examples  
-> Insert: Few real images from dataset showing Indian traffic scenes
-
 Image Placeholder: Class Distribution Bar Graph  
-> Insert: Training data imbalance visualization
+> ![Alt text](https://i.ibb.co/XZLPC7Vr/Untitled.png)
 
 IDD-PeD highlights domain shift challenges compared to Western datasets like JAAD or PIE.
 
@@ -72,7 +70,7 @@ Frame-based binary classification using:
 ### Model Architecture Diagram
 
 Image Placeholder: Full Model Architecture  
-> Insert: Block diagram showing MobileNetV2 → Attention → Dense → +Context → Binary output
+> ![Alt text](https://ibb.co/j9HLwSxd)
 
 ---
 
