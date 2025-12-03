@@ -10,7 +10,7 @@ Deep Learning Project – AI3001 | Plaksha
 ---
 
 ## Video Link
- - 
+ - https://drive.google.com/drive/folders/16hNh2zvcQxKXEQAQOKlY8G9WkMQnEbAN
 
 ## Abstract
 Indian roads are highly unstructured, chaotic, and dense, leading to frequent failures of Western pedestrian intent prediction systems. We propose a lightweight frame-based model that predicts whether a pedestrian intends to cross the ego vehicle’s path, using both visual posture cues and contextual road semantics. Our MobileNetV2 + Spatial Attention model combined with a 12-dimensional context feature vector achieved improved recall for the safety-critical Crossing class while preserving real-time feasibility.
