@@ -202,12 +202,3 @@ Scene semantics often overpower motion cues.
 2. Rasouli, A. et al., 2019. PIE Dataset for Pedestrian Intention Estimation.  
 3. Kotseruba, I. et al., 2021. Winter Conference on Applications of Computer Vision.
 
----
-
-## Appendix
-
-Image Placeholder: Additional training graphs  
-> Insert: Loss curves, accuracy curves
-
-Image Placeholder: Baseline Architecture Diagrams  
-> Insert: ResNet, EfficientNet, MobileNet comparisons
