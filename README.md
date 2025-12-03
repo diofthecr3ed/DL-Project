@@ -70,7 +70,7 @@ Frame-based binary classification using:
 ### Model Architecture Diagram
 
 Image Placeholder: Full Model Architecture  
-> ![Alt text](https://ibb.co/j9HLwSxd)
+> ![Alt text](/Untitled.png)
 
 ---
 
