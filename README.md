@@ -53,7 +53,7 @@ Indian Driving Dataset subset with annotated pedestrian behavior.
 | Crossing frames | 2,391 |
 
 Image Placeholder: Class Distribution Bar Graph  
-> ![Alt text](https://i.ibb.co/XZLPC7Vr/Untitled.png)
+> ![Alt text](/architecture.png)
 
 IDD-PeD highlights domain shift challenges compared to Western datasets like JAAD or PIE.
 
