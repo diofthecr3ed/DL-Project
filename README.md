@@ -28,11 +28,7 @@ Given:
 - An RGB frame from an ego-vehicle camera  
 - Bounding box around a detected pedestrian  
 
-Predict the binary crossing intention:
-
-$$
-P(y = \text{crossing} \mid I, C)
-$$
+Predict the binary crossing intention.
 
 
 Where:  
@@ -54,7 +50,7 @@ Indian Driving Dataset subset with annotated pedestrian behavior.
 | Crossing frames | 2,391 |
 
 Class Distribution Bar Graph  
-> ![Alt text](/Untitled.png)
+> ![Alt text](/1.jpg)
 
 
 IDD-PeD highlights domain shift challenges compared to Western datasets like JAAD or PIE.
@@ -101,7 +97,7 @@ Feature Importance Chart
 - Focal Loss to address class imbalance  
 
 $$
-FL = -\alpha (1-p)^\gamma \log(p)
+Using Focal Loss
 $$
 
 
