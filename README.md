@@ -52,7 +52,7 @@ Indian Driving Dataset subset with annotated pedestrian behavior.
 | Not Crossing | 7,404 |
 | Crossing frames | 2,391 |
 
-Image Placeholder: Class Distribution Bar Graph  
+Class Distribution Bar Graph  
 > ![Alt text](/architecture.png)
 
 IDD-PeD highlights domain shift challenges compared to Western datasets like JAAD or PIE.
@@ -69,7 +69,7 @@ Frame-based binary classification using:
 
 ### Model Architecture Diagram
 
-Image Placeholder: Full Model Architecture  
+Full Model Architecture  
 > ![Alt text](/Untitled.png)
 
 ---
@@ -86,7 +86,7 @@ Image Placeholder: Full Model Architecture
 | Location | divider or roadside |
 | Ego-Vehicle Interaction | direct attention to vehicle |
 
-Image Placeholder: Feature Importance Chart  
+Feature Importance Chart  
 > Insert: Bar plot showing relative weight of each context feature
 
 ---
