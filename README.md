@@ -30,9 +30,10 @@ Given:
 
 Predict the binary crossing intention:
 
-\[
+$$
 P(y = \text{crossing} \mid I, C)
-\]
+$$
+
 
 Where:  
 - I = Pedestrian image crop  
@@ -53,7 +54,8 @@ Indian Driving Dataset subset with annotated pedestrian behavior.
 | Crossing frames | 2,391 |
 
 Class Distribution Bar Graph  
-> ![Alt text](/architecture.png)
+> ![Alt text](/Untitled.png)
+
 
 IDD-PeD highlights domain shift challenges compared to Western datasets like JAAD or PIE.
 
@@ -70,7 +72,7 @@ Frame-based binary classification using:
 ### Model Architecture Diagram
 
 Full Model Architecture  
-> ![Alt text](/Untitled.png)
+> ![Alt text](/architecture.png)
 
 ---
 
@@ -98,9 +100,10 @@ Feature Importance Chart
 - Frame skipping to avoid redundancy  
 - Focal Loss to address class imbalance  
 
-\[
+$$
 FL = -\alpha (1-p)^\gamma \log(p)
-\]
+$$
+
 
 ---
 
